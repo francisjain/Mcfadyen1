@@ -1,0 +1,24 @@
+footer{
+  margin: 0;
+  padding: 0;
+}
+
+
+h2{    
+  
+  font-size: 36px;
+  font-weight: 400;
+  color: #707070;   
+}
+h3{    
+  
+  font-size: 20px;
+  line-height: 27.88px;
+  color: #707070;   
+}
+p{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #707070;
+}

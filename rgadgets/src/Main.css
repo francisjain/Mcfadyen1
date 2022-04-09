@@ -1,0 +1,11 @@
+.margin{
+    margin: 25px;
+    padding-left: 30px;
+}
+
+@media (max-width:768px) {
+    .margin{
+        margin: 5px;
+        padding: 1px;
+    }
+}

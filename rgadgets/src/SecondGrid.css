@@ -1,0 +1,12 @@
+
+.first{
+    /* background-color: bisque; */
+}
+
+
+.second{
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
