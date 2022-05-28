@@ -43,10 +43,7 @@ function First() {
                         <Slider {...settings}>
 
                             <Image src="./images/part1.svg" className="img__container" />
-
-
                             <Image src="./images/part2.svg" className="img__container" />
-
 
                             <Image src="./images/part3.svg" className="img__container" />
 

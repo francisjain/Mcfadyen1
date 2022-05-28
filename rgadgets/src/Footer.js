@@ -12,10 +12,10 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 function Footer() {
   return (
     <footer className="p-2 mt-5" >
-      <Row className="first__footer">
+      <Row className="first__footer"  >
 
         <Col xs={{ span: 12, order: 2 }} md={{ span: 12, order: 2 }} xl={{ span: 1, order: 1 }} xxl={{ span: 1, order: 1 }} >
-          <h3 style={{ color: "white" }}>COMPANY</h3>
+          <h3 style={{ color: "white" }}>COMPANY Name</h3>
           <p style={{ color: "white" }}>About Us Sell With Us Our Sellers</p>
         </Col>
 
